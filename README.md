@@ -1,2 +1,2 @@
 # Proximity-Sensor
-An Innovative contactless proximity sensor
+a contactless proximity sensor test code
